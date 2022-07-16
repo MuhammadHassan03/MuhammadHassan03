@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @MuhammadHassan03
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning at Superior University Lahore
-- 💞️ Dream Job at Google, Microsoft
-- 📫 How to reach me by Email="mh7722178@gmail.com"
-
-<!---
-MuhammadHassan03/MuhammadHassan03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Currently Learning : Bachelor of Science in Software Engineering
+- 🌱 University : Superior University Gold Campus Lahore
+- 💞️ Dream : Job at Google, Microsoft
+- 📫 Reach Me at : Email(mh7722178@gmail.com) OR Whatsapp (+923437818053)
