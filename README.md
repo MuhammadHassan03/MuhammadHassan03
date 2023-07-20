@@ -1,4 +1,4 @@
-👋 Hi there! I'm @MuhammadHassan03, a passionate MERN stack developer and software engineer. I love creating amazing web applications and mobile apps using cutting-edge technologies like Flutter.
+👋 Hi there! I'm @MuhammadHassan03, a passionate MERN stack developer and software engineer. I love creating amazing web applications and mobile apps using cutting-edge technologies like Flutter, React, NodeJs.
 
 🌱 Currently, I'm pursuing a Bachelor of Science degree in Software Engineering at Superior University Gold Campus in Lahore. I believe in continuous learning and strive to stay updated with the latest trends and advancements in the field of software development.
 
