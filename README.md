@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I build production AI and full-stack systemsg<br>
+🔭 I build production AI and full-stack systems<br>
 🛠️ Currently deep in agentic AI, applied ML, and shipping real features for real users<br>
 🌱 Always learning<br>
 💬 Ask me about technology :)<br>
